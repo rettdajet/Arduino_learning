@@ -13,7 +13,7 @@ learning in progress.
 - BMP280 Pressure Sensor
 - MPU6050 Accelerometer/Gyro  
 - SD Card Module
-Expected arrival: 
+Expected arrival: Arduino - 3/19/26
 
 ## Learning Timeline
 - **Week 1:** Python basics + Arduino concepts
@@ -24,15 +24,10 @@ Expected arrival:
 ## Current Progress
 - [x] Created GitHub account
 - [x] Created first repository
-- [ ] Order hardware
+- [x] Order hardware (ordered arduino but not rest)
 - [ ] Learn Python basics
 - [ ] Set up Arduino IDE
 - [ ] First Arduino sketch
-
-## Resources
-- Python: https://www.freecodecamp.org/learn/python-for-beginners/
-- Arduino: https://www.arduino.cc/en/Tutorial
-- Model Rocketry: https://www.nar.org
 
 ## Notes
 Started: Today!
