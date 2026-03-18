@@ -5,7 +5,7 @@ Arduino code and learning for my 3D-printed rocket project
 ##  Goal
 Build a 3D-printed rocket with integrated sensors and launch it.
 
-## Current StatusHardware
+## Current Status
 learning in progress.
 
 ## Hardware to Order
