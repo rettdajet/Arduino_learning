@@ -25,9 +25,10 @@ Expected arrival: Arduino - 3/19/26
 - [x] Created GitHub account
 - [x] Created first repository
 - [x] Order hardware (ordered arduino but not rest)
-- [ ] Learn Python basics
-- [ ] Set up Arduino IDE
-- [ ] First Arduino sketch
+- [x] Learn Python basics
+- [x] Set up Arduino IDE
+- [x] First Arduino sketch
 
 ## Notes
-Started: Today!
+Forgot to update checklist.
+Hoping to get a lot more consistant progress once school ends.
